@@ -57,7 +57,7 @@ def main():
         [LIMIT_BAL, EDUCATION, MARRIAGE, AGE, PAY_1, BILL_AMT1, BILL_AMT2, BILL_AMT3, BILL_AMT4, BILL_AMT5, BILL_AMT6,
          PAY_AMT1, PAY_AMT2, PAY_AMT3, PAY_AMT4, PAY_AMT5, PAY_AMT6])
 
-    df = np.array(features).astype(np.float64).reshape(1, -1)
+    df = np.array(features).reshape(1, -1)
 
     if st.button("Predict"):
         # Display the user input features
