@@ -6,6 +6,12 @@ Folder Structure
 ```
 +
 |
+|------ Deployment of Week 1 Task using Streamlit
+|
+|
+|------ Final Project
+|
+|
 |------ Week 1 Tasks      
 |           |---- Datasets
 |           |           |-- cleaned_data.csv
