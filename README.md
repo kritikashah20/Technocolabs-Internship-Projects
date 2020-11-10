@@ -15,6 +15,9 @@ Folder Structure
 |------ Final Project
 |
 |
+|------ Screenshots of Projects
+|
+|
 |------ Week 1 Tasks      
 |           |---- Datasets
 |           |           |-- cleaned_data.csv
