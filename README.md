@@ -6,6 +6,9 @@ Folder Structure
 ```
 +
 |
+|------ Deployment of Final Project
+|
+|
 |------ Deployment of Week 1 Task using Streamlit
 |
 |
